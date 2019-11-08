@@ -1,0 +1,2 @@
+//生成序列化 json 文件
+flutter packages pub run build_runner build
